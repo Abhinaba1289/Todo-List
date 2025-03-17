@@ -26,52 +26,9 @@ A simple yet efficient **To-Do List App** built with **HTML, CSS, and JavaScript
 
 ## 📸 Screenshots
 
-![Todo List App Screenshot](https://raw.githubusercontent.com/abhinaba1289/Todo-List/main/screenshot.png)
+<img src="https://github.com/user-attachments/assets/37cef555-53ab-4369-9997-2731a1cbf8f5" width="600" alt="Todo List App Screenshot">
 
----
 
-## 🎯 How to Use
-
-1️⃣ **Open the App** – [Click Here](https://abhinaba1289.github.io/Todo-List/)  
-2️⃣ **Enter a Task** – Type in your task and hit the `+` button.  
-3️⃣ **Manage Tasks** – Click the 🗑️ button to delete tasks.  
-4️⃣ **Stay Organized** – Keep track of your pending tasks easily!  
-
----
-
-## 📂 Project Structure
-```
-Todo-List/
-│── index.html      # Main HTML file
-│── style.css       # CSS for styling
-│── script.js       # JavaScript for functionality
-│── README.md       # Project documentation
-└── assets/         # Icons, images, etc.
-```
-
----
-
-## 🔧 Installation & Setup
-
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/abhinaba1289/Todo-List.git
-   ```
-2. **Open `index.html` in Your Browser**
-
----
-
-## 💡 Future Enhancements
-
-🚀 Add task completion feature.  
-🚀 Implement local storage to save tasks.  
-🚀 Dark mode support.  
-
----
-
-## 🙌 Contributing
-
-Feel free to **fork** this repository and submit pull requests. Suggestions and improvements are always welcome! 😊
 
 ---
 
